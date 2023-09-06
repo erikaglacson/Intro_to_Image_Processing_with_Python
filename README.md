@@ -17,4 +17,4 @@ Episode 9: Template Matching <br>
 
 You can also read this in blog form at: https://medium.com/@erikaglacson/list/introduction-to-image-processing-with-python-aa83cc667d8d
 
-Thank you!
+Thank you! 
